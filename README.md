@@ -11,7 +11,7 @@
 ![cartlogin](https://user-images.githubusercontent.com/77676634/122316856-b702b380-cf46-11eb-876d-e3ff3238470d.jpg)
 ![infodetail](https://user-images.githubusercontent.com/77676634/122316858-b702b380-cf46-11eb-833f-07adc2c18393.jpg)
 ![cardorder](https://user-images.githubusercontent.com/77676634/122316862-b79b4a00-cf46-11eb-859f-faf6f4b6ab21.jpg)
-<h1>ScreenShotS</h1><br>
+<h1>ScreenShots</h1><br>
  <h3>Build/Run</h3><br>
  <i>First, Install the needed packages</i><br>
  <label>npm install or yarn install</label><br><br>
