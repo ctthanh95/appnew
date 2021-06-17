@@ -1,1 +1,15 @@
-"# appnew" 
+<h1>Screenshots<h1>
+ ![home](https://user-images.githubusercontent.com/77676634/122316661-7b67e980-cf46-11eb-9490-e7d158ff0db3.jpg)
+![favourite](https://user-images.githubusercontent.com/77676634/122316665-7c991680-cf46-11eb-938a-b71ac07d6860.jpg)
+![login](https://user-images.githubusercontent.com/77676634/122316666-7d31ad00-cf46-11eb-8187-6cdc3f8b8249.jpg)
+![homef](https://user-images.githubusercontent.com/77676634/122316667-7d31ad00-cf46-11eb-97d2-5106f519e0e7.jpg)
+![cart](https://user-images.githubusercontent.com/77676634/122316668-7dca4380-cf46-11eb-944f-4a53f4bb51f9.jpg)
+![singin](https://user-images.githubusercontent.com/77676634/122316670-7dca4380-cf46-11eb-80c0-ca135c13b84e.jpg)
+![detail](https://user-images.githubusercontent.com/77676634/122316672-7e62da00-cf46-11eb-942f-a3c55569ee24.jpg)
+![cartinfo](https://user-images.githubusercontent.com/77676634/122316676-7f940700-cf46-11eb-99d9-625cc84da4f2.jpg)
+![infou](https://user-images.githubusercontent.com/77676634/122316678-802c9d80-cf46-11eb-967a-28cf3bbce6ee.jpg)
+![addtoCart](https://user-images.githubusercontent.com/77676634/122316679-802c9d80-cf46-11eb-837a-f2d6f17b78d4.jpg)
+![cartlogin](https://user-images.githubusercontent.com/77676634/122316680-80c53400-cf46-11eb-8f8d-cc1c1a4b8419.jpg)
+![infodetail](https://user-images.githubusercontent.com/77676634/122316682-815dca80-cf46-11eb-82c9-3cd45dd36923.jpg)
+![cardorder](https://user-images.githubusercontent.com/77676634/122316687-815dca80-cf46-11eb-850c-f68d12c4766c.jpg)
+
